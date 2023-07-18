@@ -3,7 +3,7 @@
     font-size: 23px;
     width: 100%;
     margin: 0px;
-    box-shadow:5px 5px 5px darkorchid;
+    box-shadow:5px 5px 5px limegreen;
 }
 .note
 {
@@ -16,17 +16,18 @@
     color: white;
     bottom: 0;
     width: 100%;
-    background-color:darkorchid;
+    background-color: green;
     line-height: 3;
     text-align: center;
 }
+
 body{
-    background-size: cover;
+    background-color: greenyellow;
 }
 
 canvas
 {
-    border:5px solid rgb(116, 13, 13);
+    border:5px solid rgb(20, 107, 46);
     border-radius:20px;
-    box-shadow:5px 5px 5px darkorchid;
+    box-shadow:5px 5px 5px gree;
 }
